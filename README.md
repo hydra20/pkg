@@ -1,6 +1,6 @@
-# pkg
 
-<img src="pkg/proof.jpg">
+
+<img src="proof.jpg">
 
 # install all pkg in one click 
 Solve all Termex problems by installing these packages at once
