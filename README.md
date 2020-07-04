@@ -5,21 +5,19 @@
 # install all pkg in one click 
 Solve all Termex problems by installing these packages at once
 
-pkg update && upgrade -y
+$ pkg update && upgrade -y
 
-pkg install git
+$ pkg install git -y
 
-pkg install python
+$ pkg install bash -y
 
-pkg install bash 
+$ git clone https://github.com/hydra20/pkg
 
-git clone https://github.com/hydra20/pkg
+$ cd pkg 
 
-cd pkg 
+$ chmod +x *
 
-chmod +x *
-
-bash pkg.sh 
+$ bash pkg.sh 
 
 enjoy 
 
