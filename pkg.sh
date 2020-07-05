@@ -1,3 +1,4 @@
+clear
 printf "\e[1;31m Before installation Type this termux-setup-storage and click allow"
 sleep 8
 
@@ -103,7 +104,7 @@ pkg install root-repo -y
 pkg install unstable-repo -y
 pkg install x11-repo -y
 apt update && apt upgrade -y
-
+clear
 printf "\e[1;32mtermux update finished
 
 Thank you for use my tool
