@@ -51,6 +51,7 @@ pkg install figlet -y
 pkg install wget -y
 pkg install cfengine -y
 pkg install db -y
+pkg install w3m -y
 pkg install netpb -y
 pkg install postgresql -y
 pkg install uftrace -y
