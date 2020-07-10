@@ -59,7 +59,7 @@ pkg install python -y
 pkg install python2 -y
 pkg install python3 -y
 pkg install java -y
-pkg install pyfiglet -y
+pip install pyfiglet -y
 pkg install fish -y
 pkg install ruby -y
 pip install --upgrade pip
