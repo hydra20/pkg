@@ -24,5 +24,5 @@ enjoy
 
 
 # my channel 
-www.youtube.com/c/hydranet 
-# for learn more about hacking 
+## www.youtube.com/c/pythonlife
+
